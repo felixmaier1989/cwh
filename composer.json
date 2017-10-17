@@ -17,7 +17,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "monolog/monolog": "^1.20",
+        "monolog/monolog": "1.7.*",
         "aws/aws-sdk-php": "2.*"
     },
     "require-dev": {
